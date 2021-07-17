@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Sup ? This is Shamunesh Selvam</h1>
-<h3 align="center">Pull-Stack Developer!</h3>
+<h3 align="center">Full-Stack Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamunesh&label=Profile%20views&color=0e75b6&style=flat" alt="shamunesh" /> </p>
 
