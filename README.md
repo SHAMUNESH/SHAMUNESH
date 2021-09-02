@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Doctor Community App**
 
-- 🌱 I’m currently learning **Drone Technology,Python AI**
+- 🌱 I’m currently learning **API Node, React Native App Developmet**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **React Native Backend Development**
 
 - 📫 How to reach me **shamuselvam2001@gmail.com**
 
