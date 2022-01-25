@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamunesh" alt="shamunesh" /></a> </p>
 
-- 🔭 I’m currently working on **Pitch my Place**
+- 🔭 I’m currently working on **Ping My Place**
 
 - 🌱 I’m currently learning **API Node, React Native App Developmet**
 
